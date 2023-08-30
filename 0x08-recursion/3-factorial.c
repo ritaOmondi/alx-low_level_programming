@@ -1,9 +1,10 @@
 #include "main.h"
 /**
- * factorial - calculate factorial of a number 
+ * factorial - calculate factorial of a number
  * @n : number to calculate the factorial
  *
- * Return - Integer value
+ * Return : the factorial of the given number,
+ * if n is negative, returns -1
  */
 int factorial(int n)
 {
