@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _strlen_recursion - Function that calculates the length of a string
- * @s : Input string to be counted
+ * @s : The string whose length is calculated
  *
  * Return - Always 0 success
  */
