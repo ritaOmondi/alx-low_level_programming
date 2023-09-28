@@ -11,9 +11,9 @@
 unsigned int binary_to_uint(const char *b)
 {
 int a;
-unsigned int deci;
+unsigned int deci = 0;
 
-if (b == NULL)
+if (!b)
 {
 return (0);
 }
